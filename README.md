@@ -1,2 +1,2 @@
-project_euler_ruby
+project-euler-ruby
 ==================
